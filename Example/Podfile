@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'XMGSegmentBar_Example' do
+  pod 'XMGSegmentBar', :path => '../'
+
+  target 'XMGSegmentBar_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
