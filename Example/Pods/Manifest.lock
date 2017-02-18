@@ -1,0 +1,16 @@
+PODS:
+  - XMGSegmentBar (0.1.0)
+
+DEPENDENCIES:
+  - XMGSegmentBar (from `../`)
+
+EXTERNAL SOURCES:
+  XMGSegmentBar:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XMGSegmentBar: f852055b48e5a065f145c3cc79fa2dc1a777edc3
+
+PODFILE CHECKSUM: 77c1c5fc438a3bc63ad3c87140bdc1b646d86ea4
+
+COCOAPODS: 1.2.0.beta.1

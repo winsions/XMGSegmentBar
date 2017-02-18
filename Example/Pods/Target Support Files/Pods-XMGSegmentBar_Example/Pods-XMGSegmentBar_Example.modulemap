@@ -1,0 +1,6 @@
+framework module Pods_XMGSegmentBar_Example {
+  umbrella header "Pods-XMGSegmentBar_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

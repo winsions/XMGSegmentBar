@@ -1,0 +1,6 @@
+framework module Pods_XMGSegmentBar_Tests {
+  umbrella header "Pods-XMGSegmentBar_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
