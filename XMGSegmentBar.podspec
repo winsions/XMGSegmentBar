@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 "分段控制器, 学习嘻嘻嘻嘻嘻嘻嘻嘻嘻".
                        DESC
 
-  s.homepage         = 'https://coding.net/u/seemygo_wangshunzi/p/XMGSegmentBar'
+  s.homepage         = 'https://github.com/winsions/XMGSegmentBar'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'wangshunzi' => '123@qq.com' }
-  s.source           = { :git => 'https://git.coding.net/seemygo_wangshunzi/XMGSegmentBar.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/winsions/XMGSegmentBar.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'

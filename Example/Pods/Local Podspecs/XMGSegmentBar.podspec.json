@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "summary": "XMGSegmentBar.",
   "description": "\"分段控制器, 学习嘻嘻嘻嘻嘻嘻嘻嘻嘻\".",
-  "homepage": "https://coding.net/u/seemygo_wangshunzi/p/XMGSegmentBar",
+  "homepage": "https://github.com/winsions/XMGSegmentBar",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "wangshunzi": "123@qq.com"
   },
   "source": {
-    "git": "https://git.coding.net/seemygo_wangshunzi/XMGSegmentBar.git",
+    "git": "https://github.com/winsions/XMGSegmentBar.git",
     "tag": "0.1.0"
   },
   "platforms": {
